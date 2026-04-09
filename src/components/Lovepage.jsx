@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { NOTES } from "../constants";
+import { NOTES } from "./Constants";
 import FlipCard from "./Flipcard";
 import { Confetti } from "./Sharedcomponents";
 
