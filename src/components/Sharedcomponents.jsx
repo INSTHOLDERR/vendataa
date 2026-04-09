@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import { TABS } from "../constants";
+import { TABS } from "./Constants";
 
 export function Particles() {
   const ps = useRef(

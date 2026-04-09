@@ -1,5 +1,5 @@
 import { useState, useRef, useCallback } from "react";
-import { BTS_SONGS, MEMBERS, LOVE_MSGS } from "../constants";
+import { BTS_SONGS, MEMBERS, LOVE_MSGS } from "./Constants";
 
 const BG_IMAGES = [
   { id:"gdZLi9oWNZg", top:"4%",   left:"-6%",  size:130, rot:-14, op:0.18 },
