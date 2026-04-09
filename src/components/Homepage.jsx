@@ -5,7 +5,6 @@ const MSGS = [
   "The mistake was mine, entirely 💔",
   "You mean everything to me, Meenama 💗",
   "You're my favorite person in this world 🌸",
-  "I purple you, my ARMY girl 💜",
   "Please smile again? That's all I want 🌷",
 ];
 
