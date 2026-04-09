@@ -1,11 +1,11 @@
 import { useState } from "react";
-import GlobalStyles from "./components/Globalstyles";
-import { Particles, Nav } from "./components/SharedComponents";
-import HomePage from "./components/HomePage";
-import LovePage from "./components/LovePage";
-import BTSPage from "./components/BTSPage";
-import UsPage from "./components/UsPage";
-import { TABS } from "./components/constants";
+import GlobalStyles from "./components/Globalstyles.jsx";
+import { Particles, Nav } from "./components/Sharedcomponents.jsx";
+import HomePage from "./components/Homepage.jsx";
+import LovePage from "./components/Lovepage.jsx";
+import BTSPage from "./components/Btspage.jsx";
+import UsPage from "./components/Uspage.jsx";
+import { TABS } from "./components/Constants.js";
 
 export default function App() {
   const [tab, setTab] = useState("home");
